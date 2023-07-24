@@ -8,7 +8,7 @@
 
 <h2>📺 Certifications</h2>
 
-- Google Cyberscurity (https://coursera.org/share/299b3826779301a5937225e2e1f3fe3e)
+- Google Cyberscurity (https://coursera.org/share/be466d51209d1dc87694ea57d9873242)
 - Official (ISC)² Certified in Cybersecurity (https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
