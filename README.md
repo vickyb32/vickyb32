@@ -9,7 +9,7 @@
 <h2>📺 Certifications</h2>
 
 - Google Cyberscurity (https://coursera.org/share/be466d51209d1dc87694ea57d9873242)
-- Official (ISC)² Certified in Cybersecurity (file:///Users/vic/Downloads/Official%20CC%20Course%20Completion%20Certificate_Official%20ISC2%20CC%20Online%20Self-Paced%20Training%20-%201M_Bharadwaj-1.pdf)
+- Official (ISC)² Certified in Cybersecurity (https://imgur.com/a/1ma34EM)
 
 
 Here are some ideas to get you started:
