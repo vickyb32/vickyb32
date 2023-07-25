@@ -4,7 +4,7 @@
 
 - <b>Perform a SQL query </b>
   - [SQL Query Lab](https://github.com/vickyb32/SQL-Query-Lab)
-
+- <b>Apply filters to SQL queries </b>
 
 <h2>📺 Certifications</h2>
 
