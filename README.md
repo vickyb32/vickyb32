@@ -8,7 +8,8 @@
   - [SQL Query filters Lab](https://github.com/vickyb32/SQL-filters-Lab/tree/main)
  - <b>Python Labs </b>
   - [Update a file through a Python algorithm](https://github.com/vickyb32/Update-a-file-through-a-Python-algorithm/tree/main)
-
+- <b>Linux Lab </b>
+  - [File permissions in Linux]( )
 
 <h2>📺 Certifications</h2>
 
