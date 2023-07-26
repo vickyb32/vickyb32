@@ -5,7 +5,7 @@
 - <b>Perform a SQL query </b>
   - [SQL Query Lab](https://github.com/vickyb32/SQL-Query-Lab)
 - <b>Apply filters to SQL queries </b>
-  - [SQL Query filters Lab]( )
+  - [SQL Query filters Lab](https://github.com/vickyb32/SQL-filters-Lab/tree/main)
 <h2>📺 Certifications</h2>
 
 - Google Cyberscurity (https://coursera.org/share/be466d51209d1dc87694ea57d9873242)
