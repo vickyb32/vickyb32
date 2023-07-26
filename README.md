@@ -9,7 +9,7 @@
  - <b>Python Labs </b>
   - [Update a file through a Python algorithm](https://github.com/vickyb32/Update-a-file-through-a-Python-algorithm/tree/main)
 - <b>Linux Lab </b>
-  - [File permissions in Linux]( )
+  - [File permissions in Linux](https://github.com/vickyb32/File-permissions-in-Linux/tree/main )
 
 <h2>📺 Certifications</h2>
 
